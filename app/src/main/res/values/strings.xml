@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Mirai Scanner</string>
+    <string name="textoInformativo">O Mirai Scanner é um aplicativo desenvolvido para detectar dispositivos IoT em sua rede Wi-Fi atual que estejam sujeitos a ataques do malware Mirai.</string>
+    <string name="textoClick">Por favor se conecte a rede Wi-Fi e clique no botão abaixo</string>
+    <string name="item_sobre">Sobre</string>
+    <string name="item_configuracoes">Configurações</string>
+    <string name="item_sair">Sair</string>
+    <string name="item_atualizar">Atualizar</string>
+    <string name="app_versao">Versão 1.0.0</string>
+    <string name="app_ultima_atualizacao">Última atualização: 06/12/2018</string>
+    <string name="dispositivos_encontrados">Dispositivos encontrados</string>
+    <string name="nav_dispositivos">Dispositivos</string>
+    <string name="nav_ameacas">Ameaças</string>
+    <string name="nav_notificacoes">Notificações</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!--Tela de Informações do dispositivo-->
+    <!--Informaçoes-->
+    <string name="dispositivo">Dispositivo</string>
+    <string name="infoDispositivo">Informações do dispositivo</string>
+    <string name="nomeDispositivo">Nome</string>
+    <string name="enderecoIP">Endereço de IP</string>
+    <string name="fabricanteMAC">Fabricante MAC</string>
+    <string name="enderecoMAC">Endereço MAC</string>
+
+    <!--Ameaças-->
+    <string name="ameacas">Ameaças</string>
+    <string name="porta23">Porta 23</string>
+    <string name="porta2323">Porta 2323</string>
+    <string name="porta48101">Porta 48101</string>
+    <string name="telnet_usr">Usuário Telnet</string>
+    <string name="telnet_senha">Senha Telnet</string>
+
+</resources>
